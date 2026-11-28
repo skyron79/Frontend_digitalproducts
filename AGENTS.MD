@@ -1,7 +1,7 @@
 ## git commit messages 
 
 - use conventional commits 
-- keep commit messages consise an dmeaningfull
+- keep commit messages consise and meaningful
 
 ## shader syntax
 
